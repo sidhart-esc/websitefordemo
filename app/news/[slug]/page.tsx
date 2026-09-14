@@ -7,6 +7,8 @@ import { Calendar, ArrowLeft, Building2, UserCircle2, Clock } from 'lucide-react
 import CTAStrip from '@/components/sections/CTAStrip'
 import PageTransition from '@/components/ui/PageTransition'
 
+export const dynamicParams = false;
+
 interface NewsItem {
   id: string
   title: string
@@ -17,10 +19,6 @@ interface NewsItem {
   excerpt: string
   content: string
   imageUrl?: string | null
-}
-
-export async function generateStaticParams() {
-  return [];
 }
 
 export default function NewsDetailPage({ params }: { params: Promise<{ slug: string }> }) {

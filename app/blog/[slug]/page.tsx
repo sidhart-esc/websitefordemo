@@ -7,6 +7,8 @@ import { Calendar, ArrowLeft, Clock, User } from 'lucide-react'
 import CTAStrip from '@/components/sections/CTAStrip'
 import PageTransition from '@/components/ui/PageTransition'
 
+export const dynamicParams = false;
+
 interface BlogPostItem {
   id: string
   title: string
@@ -19,10 +21,6 @@ interface BlogPostItem {
   authorName?: string | null
   authorRole?: string | null
   coverImageUrl?: string | null
-}
-
-export async function generateStaticParams() {
-  return [];
 }
 
 export default function BlogDetailPage({ params }: { params: Promise<{ slug: string }> }) {
