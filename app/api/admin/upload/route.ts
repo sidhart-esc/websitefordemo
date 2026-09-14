@@ -1,3 +1,5 @@
+export const dynamic = "force-static";
+
 import { NextResponse } from 'next/server'
 import { writeFile, mkdir } from 'fs/promises'
 import path from 'path'
