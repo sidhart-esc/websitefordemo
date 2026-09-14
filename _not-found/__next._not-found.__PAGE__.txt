@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/29eegl__dij7u.js","/_next/static/chunks/0o2wzujh-m5tp.js"],""]
+3:I[97367,["/_next/static/chunks/29eegl__dij7u.js","/_next/static/chunks/0o2wzujh-m5tp.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/29eegl__dij7u.js","/_next/static/chunks/0o2wzujh-m5tp.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/29eegl__dij7u.js","/_next/static/chunks/0o2wzujh-m5tp.js"],"MetadataBoundary"]
+a:I[27201,["/_next/static/chunks/29eegl__dij7u.js","/_next/static/chunks/0o2wzujh-m5tp.js"],"IconMark"]
+c:I[39756,["/_next/static/chunks/29eegl__dij7u.js","/_next/static/chunks/0o2wzujh-m5tp.js"],"default"]
+d:I[37457,["/_next/static/chunks/29eegl__dij7u.js","/_next/static/chunks/0o2wzujh-m5tp.js"],"default"]
+7:X
+f:X
+f:C
+0:{"buildId":"KbObCPfR0U8ko8FIx6WBQ","data":[{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"bg-[#0f1117] min-h-screen flex items-center","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center","children":[["$","div",null,{"className":"text-8xl font-bold mb-4","style":{"color":"#962228"},"children":"404"}],["$","div",null,{"className":"w-16 h-[2px] mx-auto mb-6","style":{"backgroundColor":"#962228"}}],["$","h1",null,{"className":"text-3xl sm:text-4xl font-light text-white mb-4","children":"Page not found"}],["$","p",null,{"className":"text-gray-400 text-lg max-w-md mx-auto mb-10","children":"The page you are looking for does not exist or has been moved."}],["$","div",null,{"className":"flex flex-wrap items-center justify-center gap-4","children":[["$","$L2",null,{"href":"/","className":"px-6 py-3 text-sm font-semibold text-white rounded-md transition-all hover:opacity-90","style":{"backgroundColor":"#962228"},"children":"Back to Home"}],["$","$L2",null,{"href":"/contact","className":"px-6 py-3 text-sm font-semibold text-gray-300 rounded-md border border-gray-600 hover:border-gray-400 hover:text-white transition-all","children":"Contact Us"}]]}]]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ESC Utility Services | Indo-German Technology Partner"}],["$","meta","1",{"name":"description","content":"Delivering Software Engineering, Generative AI, Intelligent Automation, and IT back-office services for Energy and Water industry organizations."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$La","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+5:null
+11:true
+7:300
+7:C
+10:0
+b:"$undefined"
+e:"$undefined"
+6:"$undefined"
