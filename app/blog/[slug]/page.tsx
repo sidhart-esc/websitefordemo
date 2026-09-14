@@ -21,6 +21,10 @@ interface BlogPostItem {
   coverImageUrl?: string | null
 }
 
+export async function generateStaticParams() {
+  return [];
+}
+
 export default function BlogDetailPage({ params }: { params: Promise<{ slug: string }> }) {
   const resolvedParams = use(params)
   const [article, setArticle] = useState<BlogPostItem | null>(null)

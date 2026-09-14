@@ -19,6 +19,10 @@ interface NewsItem {
   imageUrl?: string | null
 }
 
+export async function generateStaticParams() {
+  return [];
+}
+
 export default function NewsDetailPage({ params }: { params: Promise<{ slug: string }> }) {
   const resolvedParams = use(params)
   const [article, setArticle] = useState<NewsItem | null>(null)
